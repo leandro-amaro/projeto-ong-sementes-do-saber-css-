@@ -47,4 +47,4 @@ Esta atividade foi um mergulho nos fundamentos do CSS moderno. Os principais con
 
 ## 👨‍💻 Autor
 
-* **Leandro** - *[Pode adicionar seu sobrenome ou usuário do GitHub aqui]*
+* **Leandro Amaro da Silva** 
